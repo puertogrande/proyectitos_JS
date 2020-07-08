@@ -1,0 +1,40 @@
+#parrafo1{
+    width: 300px;
+    height:250px;
+    margin:auto;
+    border: 2px solid red;
+    margin-bottom: 0%;
+    padding: 1%;
+    text-align:center;
+}
+#titulo{
+    text-align: center;
+}
+
+#parrafo1 img{
+    width: 300px;
+    height: 200px;
+    margin: auto;
+}
+.botones{
+    margin-left: 40%;
+    margin-top: 30px;
+    margin-bottom: -20px;
+}
+.imagenes{
+    margin-top:5%;
+}
+.imagenes img{ 
+  width: 160px;
+  height:110px;
+}
+.fila1, .fila2{
+    width: 880px;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#titulo{
+    display: inline-block;
+}
